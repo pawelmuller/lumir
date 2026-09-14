@@ -116,6 +116,7 @@ pip install -r requirements.txt
 - `mir_eval` (>= 0.7)
 - `librosa` (>= 0.10.0)
 - `requests` (>= 2.31.0)
+- `sounddevice` (>= 0.4.6)
 
 ---
 
