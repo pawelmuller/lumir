@@ -1,0 +1,7 @@
+# Tabela 5.1: Zestawienie pomiarów czasu przetwarzania bloku audio
+
+| Metryka       | FilePlayer (offline) | FilePlayer (real-time) | LiveStream (BlackHole) |
+| ------------- | -------------------- | ---------------------- | ---------------------- |
+| Średnia [ms]  | 0,75                 | 4,93                   | 4,17                   |
+| P95 [ms]      | 1,04                 | 7,43                   | 6,75                   |
+| Maksimum [ms] | 18,61                | 23,47                  | 29,01                  |

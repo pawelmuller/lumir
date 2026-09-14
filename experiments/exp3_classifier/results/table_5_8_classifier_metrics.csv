@@ -1,0 +1,4 @@
+Metryka,System LUMIR,Klasyfikator bazowy,Różnica (p.p.)
+Dokładność (Accuracy),"0,4884","0,4496","+3,88 p,p,"
+Makro-F1 (Macro-F1),"0,4938","0,4401","+5,37 p,p,"
+κ Cohena (względem referencji),"0,2543","0,1465","+0,1078"

@@ -1,0 +1,8 @@
+# Tabela 5.7: Macierz pomyłek dla klasyfikacji stanów energetycznych względem anotacji referencyjnych
+
+| index              | Predykcja LOW | Predykcja MID | Predykcja HIGH | Suma |
+| ------------------ | ------------- | ------------- | -------------- | ---- |
+| Rzeczywistość LOW  | 333           | 90            | 5              | 428  |
+| Rzeczywistość MID  | 389           | 398           | 54             | 841  |
+| Rzeczywistość HIGH | 136           | 564           | 451            | 1151 |
+| Suma               | 858           | 1052          | 510            | 2420 |

@@ -1,0 +1,7 @@
+# Wyniki jednoczynnikowej analizy wariancji ANOVA i testu post-hoc Tukeya
+
+| Porównanie                                                            | Różnica średnich | Wartość p | Istotność (alfa=0.05) |
+| --------------------------------------------------------------------- | ---------------- | --------- | --------------------- |
+| Zwykli widzowie (brak doświadczenia) vs Hobbyści (wiedza teoretyczna) | 0,41             | 0,3125    | NIE                   |
+| Zwykli widzowie (brak doświadczenia) vs Profesjonalni realizatorzy    | 0,86             | 0,0012    | TAK                   |
+| Hobbyści (wiedza teoretyczna) vs Profesjonalni realizatorzy           | 0,45             | 0,1754    | NIE                   |

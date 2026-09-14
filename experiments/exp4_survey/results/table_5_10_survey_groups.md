@@ -1,0 +1,7 @@
+# Tabela 5.10: Średnie oceny systemu LUMIR w podziale na grupy doświadczenia respondentów
+
+| Grupa                                | Liczebność (n) | Średnia | Odch. std. | Udział w próbie |
+| ------------------------------------ | -------------- | ------- | ---------- | --------------- |
+| Zwykli widzowie (brak doświadczenia) | 18             | 3,59    | 0,43       | 28,1%           |
+| Hobbyści (wiedza teoretyczna)        | 14             | 3,18    | 0,99       | 21,9%           |
+| Profesjonalni realizatorzy           | 32             | 2,73    | 0,83       | 50,0%           |
